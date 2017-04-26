@@ -11,3 +11,9 @@ Follow the directions for your operating system.
 
 ### Windows 
 
+The first thing you need to do is install R. Follow [this link](https://cran.r-project.org/) and click on the "install R for the first time."  
+
+
+
+
+
