@@ -26,3 +26,5 @@ OK. Now that's done. What we've done is install R. At this point, you could go t
 You'll want to make sure you grab the open source version. 
 
 ![Here's what you want.](/rstudio.jpg)
+
+So let's install it. Great job! 
