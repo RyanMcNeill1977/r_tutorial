@@ -19,7 +19,9 @@ Then you'll go to the next screen. Again, make sure you're using the right link.
 
 ![Here's what you want.](/rstudiolink.jpg)
 
-OK. Now that's done. What we've done is install R. At this point, you could go to the Start menu and start up R. But I'm not a big fan of that GUI. Instead, let's use RStudio. Let's go to the [RStudio website](https://www.rstudio.com/products/rstudio/) and download the desktop version. 
+Download and install the file. 
+
+OK. Now that's done. What we've done is install R. At this point, you could go to the Start menu and start up R. But I'm not a big fan of that GUI (Graphical User Interface). Instead, let's use RStudio. Let's go to the [RStudio website](https://www.rstudio.com/products/rstudio/) and download the desktop version. 
 
 You'll want to make sure you grab the open source version. 
 
