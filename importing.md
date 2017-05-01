@@ -46,3 +46,12 @@ OK, after you do that, let's just enter the below code.
 read_sas("YOURFILENAME.sas7bdat")
 ```
 
+OK. So notice R just sort of spits the top part of the file onto the screen? That's not terribly helpful. For one thing, we can't work with it because it hasn't actually been assigned to an object. 
+
+Let's try this. 
+
+```R
+original_data <- read_sas("YOURFILENAME.sas7bdat")
+```
+
+Ah, that's much better. Look up in your Global Environment window in R. 
