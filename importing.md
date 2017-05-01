@@ -51,7 +51,10 @@ OK. So notice R just sort of spits the top part of the file onto the screen? Tha
 Let's try this. 
 
 ```R
-original_data <- read_sas("YOURFILENAME.sas7bdat")
+original_data <- read_sas("usa_00019.sas7bdat")
 ```
 
-Ah, that's much better. Look up in your Global Environment window in R. 
+Ah, that's much better. Look up in your Global Environment window in R. Double-click on the original_data object in the Global Environment window. 
+
+What's happened here? Well, we used the <- to save the data to an object. Now we can begin to work with the data. 
+
