@@ -12,6 +12,10 @@ install.packages("haven")
 
 Now R will do a bunch of stuff and install the package. It might take a bit. When it's finished, assuming you didn't get error messages, you're ready to use haven. 
 
+### Space for other formats here
+
+Blah blah 
+
 ### Importing data in a SAS format 
 
 Now we're going to import a dataset you've downloaded from iPUMS in SAS format. 
