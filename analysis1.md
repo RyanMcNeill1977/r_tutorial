@@ -1,4 +1,4 @@
-### Analyzing data in R
+# Analyzing data in R
 
 So now the fun begins. The first thing we want to do is start nosing around our data. When I start with a new set of data, the first thing I like to do is run some frequencies on different columns to see what's in the data. To do that, let's import a new package. 
 
@@ -17,4 +17,17 @@ library("plyr")
 ```
 
 (P.S. --- you can also just check the box next to the package you want to use). 
+
+## Lists, matrices and other data types 
+
+Right now, our data is stored in the object original_data. But what is original_data?
+
+In R, you can use [istype(x)](https://stat.ethz.ch/R-manual/R-devel/library/base/html/typeof.html) to determine the type of an object. 
+
+```R
+istype("original_data")
+```
+
+blah blah blah 
+
 
